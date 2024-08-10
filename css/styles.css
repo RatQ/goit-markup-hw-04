@@ -427,7 +427,7 @@ img {
     padding: 100px 0;
 }
 
-.logo-text {
+.logo-text-footer {
     margin-right: 120px;
 }
 
@@ -501,6 +501,5 @@ img {
 }
 
 .footer-social-link {
-    margin-right: 120px;
 }
 /* #endregion footer */
