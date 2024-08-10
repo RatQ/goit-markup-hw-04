@@ -499,4 +499,8 @@ img {
 .footer-icon {
     fill: #f4f4fd;
 }
+
+.footer-social-link {
+    margin-right: 120px;
+}
 /* #endregion footer */
