@@ -106,7 +106,7 @@ img {
     position: relative;
 }
 
-.menu-link.current::before {
+.menu-link.current::after {
     content: "";
     width: 100%;
     height: 4px;
