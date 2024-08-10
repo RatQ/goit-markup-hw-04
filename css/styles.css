@@ -152,7 +152,7 @@ img {
 /* #endregion header */
 
 /* #region hero */
-.hero-container {
+.hero {
     background-color: #2e2f42;
     padding-top: 188px;
     padding-bottom: 188px;
@@ -162,6 +162,7 @@ img {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin: 0 auto;
 }
 
 .hero-title {
@@ -230,6 +231,17 @@ img {
 
 .work-list-title {
     width: 1128px;
+}
+
+.work-list-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    margin-bottom: 8px;
 }
 
 .our-work-list {
